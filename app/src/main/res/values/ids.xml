@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="fab_shirt_label" type="id" />
+    <item name="fab_pant_label" type="id" />
+    <item name="fab_gallery_label" type="id" />
+    <item name="fab_camera_label" type="id" />
+    <item name="fab_favourite_label" type="id" />
+    <item name="fab_shuffle_label" type="id" />
+</resources>

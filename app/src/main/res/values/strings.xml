@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Wardrobe</string>
+    <string name="lbl_add_top">Add Top</string>
+    <string name="lbl_add_bottom">Add Bottom</string>
+    <string name="lbl_camera">Camera</string>
+    <string name="lbl_gallery">Gallery</string>
+    <string name="lbl_click_to_add_top">Click to Add Top</string>
+    <string name="lbl_favourite">Favourite</string>
+    <string name="lbl_shuffle">Shuffle</string>
+    <string name="lbl_options">Options</string>
+    <string name="lbl_click_to_add_bottom">Click to Add Bottom</string>
+    <string name="lbl_app_name">Pay Nearby</string>
+    <string name="lbl_powered_by">Powered by</string>
+    <string name="lbl_app_turbo">App Turbo</string>
+</resources>

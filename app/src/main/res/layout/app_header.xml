@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+
+        android:background="@color/colorWhite">
+
+        <ImageView
+            android:id="@+id/inc_ah_hamburger"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginStart="@dimen/margin_5"
+            android:layout_marginLeft="@dimen/margin_5"
+            android:src="@drawable/ic_hamburger" />
+
+        <TextView
+            android:id="@+id/inc_ah_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:fontFamily="@font/nunito_semi_bold"
+            android:text="@string/lbl_app_name"
+            android:textAllCaps="true"
+            android:textColor="@color/colorPrimaryDark"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/inc_ah_favourite"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginEnd="@dimen/margin_5"
+            android:layout_marginRight="@dimen/margin_5"
+            android:src="@drawable/ic_heart"
+            app:tint="@color/colorPrimaryDark" />
+
+    </RelativeLayout>
+</layout>
